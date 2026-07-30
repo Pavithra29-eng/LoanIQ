@@ -4,7 +4,7 @@ An end-to-end machine learning project that predicts whether a loan application
 should be **Approved** or **Rejected**, built for a fictional bank (SecureTrust
 Bank) to replace a slow, inconsistent manual verification process.
 
-**[Live Demo →](#)** *(add your deployed Streamlit link here once deployed)*
+**[Live Demo →](#)** *https://loaniq-app.streamlit.app/*
 
 ---
 
